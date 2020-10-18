@@ -13,3 +13,4 @@ module.exports = function dateSample(sampleActivity) {
     return Math.ceil(t);
   } else return false;
 };
+
