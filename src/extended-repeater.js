@@ -1,5 +1,5 @@
 const CustomError = require("../extensions/custom-error");
-
+ 
 const repeaterMaker = {
   mas: [],
   repeater: "",
